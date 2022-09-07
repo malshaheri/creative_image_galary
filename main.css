@@ -24,7 +24,7 @@
 }
 .content li{
     font-size: 75px;
-    -webkit-text-stroke: 1px #000;
+    -webkit-text-stroke: 1px rgb(92, 92, 92);
     -webkit-text-fill-color: transparent;
     cursor: pointer;
 }
